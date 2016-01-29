@@ -1,0 +1,21 @@
+{
+  "name": "hdgarrood-test-b",
+  "authors": [
+    "Harry Garrood <harry@garrood.me>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hdgarrood-test-c": "*"
+  }
+}
