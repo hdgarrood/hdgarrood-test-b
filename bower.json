@@ -17,5 +17,6 @@
   ],
   "dependencies": {
     "hdgarrood-test-c": "*"
-  }
+  },
+  "version": "1.0.0"
 }
