@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "hdgarrood-test-c": "*"
+    "hdgarrood-test-c": "~1.0.0"
   },
   "version": "1.0.0"
 }
